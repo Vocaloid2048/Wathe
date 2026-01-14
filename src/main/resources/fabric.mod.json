@@ -3,7 +3,7 @@
 	"id": "wathe",
 	"version": "${version}",
 	"name": "Wathe",
-	"description": "A murder mystery social game.",
+	"description": "A murder mystery social game. This version is forked and modify by Vocaloid2048, internal usage only.",
 	"authors": [
 		"doctor4t",
 		"AmyMialee",
